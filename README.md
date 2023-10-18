@@ -6,9 +6,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align = "center">📛My Badges</h3>
-<img align="center" alt="Badges" src="https://holopin.io/api/user/board?user=abhinav1596">
+<img align="center" alt="Badges" src="https://holopin.me/abhinav1596">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theabhinavarya&label=Profile%20views&color=0e75b6&style=flat" alt="theabhinavarya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav1596&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav1596" /> </p>
 
 
 
