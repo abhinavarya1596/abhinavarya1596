@@ -1,4 +1,4 @@
-<img align="center" alt="" width="100%" src="https://github.com/abhinavarya1596/abhinavarya1596/assets/117060825/ae6550b4-ee72-4a00-b0a0-c3d74433fe7a">
+<img align="center" alt="" width="100%" src="https://github.com/abhinavarya1596/abhinavarya1596/assets/117060825/6312c9c6-2172-4c28-9cfd-7efe80b9745e">
 
 
 
