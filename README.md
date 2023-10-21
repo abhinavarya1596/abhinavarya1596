@@ -1,8 +1,6 @@
 <img align="center" alt="" width="100%" src="https://github.com/abhinavarya1596/abhinavarya1596/assets/117060825/6312c9c6-2172-4c28-9cfd-7efe80b9745e">
 
 
-
-
 <h1 align="center">Hi 👋, I'm Abhinav Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
